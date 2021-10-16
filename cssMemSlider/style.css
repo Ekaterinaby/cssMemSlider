@@ -162,6 +162,7 @@ img {
     right: -10px;
     left: -10px;
     bottom: -20px;
+    border-radius: 1em;
 }
 
 .slide-changer:checked {
