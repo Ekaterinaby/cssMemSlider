@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+a {
+    background-color: transparent;
+}
+
+a:active,
+a:hover {
+    outline: 0;
+}
+
+img {
+    border: 0;
+    max-width: 100%;
+}
+
+input {
+    margin: 0 5px;
+    line-height: normal;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    height: auto;
+}
+
+.slider {
+    width: 640px;
+    height: 360px;
+    position: relative;
+    text-align: center;
+    line-height: 750px;
+    padding-bottom: 30px;
+}
